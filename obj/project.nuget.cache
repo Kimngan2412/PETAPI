@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlHe7abZ0jo=",
+  "dgSpecHash": "YkvJ8Er2mgM=",
   "success": true,
-  "projectFilePath": "/Users/kimngan/Documents/PETAPI/PETAPI/PETAPI/PETAPI.csproj",
+  "projectFilePath": "/Users/kimngan/Documents/PETAPI/PETAPI.csproj",
   "expectedPackageFiles": [
     "/Users/kimngan/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/Users/kimngan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
@@ -54,9 +54,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "PETAPI depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 7.0.6) but Npgsql.EntityFrameworkCore.PostgreSQL 7.0.6 was not found. Npgsql.EntityFrameworkCore.PostgreSQL 7.0.11 was resolved instead.",
-      "projectPath": "/Users/kimngan/Documents/PETAPI/PETAPI/PETAPI/PETAPI.csproj",
+      "projectPath": "/Users/kimngan/Documents/PETAPI/PETAPI.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/kimngan/Documents/PETAPI/PETAPI/PETAPI/PETAPI.csproj",
+      "filePath": "/Users/kimngan/Documents/PETAPI/PETAPI.csproj",
       "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
       "targetGraphs": [
         "net7.0"
