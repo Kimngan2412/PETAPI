@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kimngan/Documents/PETAPI/PETAPI/PETAPI/PETAPI.csproj": {}
+    "/Users/kimngan/Documents/PETAPI/PETAPI.csproj": {}
   },
   "projects": {
-    "/Users/kimngan/Documents/PETAPI/PETAPI/PETAPI/PETAPI.csproj": {
+    "/Users/kimngan/Documents/PETAPI/PETAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kimngan/Documents/PETAPI/PETAPI/PETAPI/PETAPI.csproj",
+        "projectUniqueName": "/Users/kimngan/Documents/PETAPI/PETAPI.csproj",
         "projectName": "PETAPI",
-        "projectPath": "/Users/kimngan/Documents/PETAPI/PETAPI/PETAPI/PETAPI.csproj",
+        "projectPath": "/Users/kimngan/Documents/PETAPI/PETAPI.csproj",
         "packagesPath": "/Users/kimngan/.nuget/packages/",
-        "outputPath": "/Users/kimngan/Documents/PETAPI/PETAPI/PETAPI/obj/",
+        "outputPath": "/Users/kimngan/Documents/PETAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kimngan/.nuget/NuGet/NuGet.Config"
